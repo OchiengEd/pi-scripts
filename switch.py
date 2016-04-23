@@ -26,6 +26,9 @@ class Switch:
   print("Turn off")
  
 
+"""
+Garage class
+"""
 class Garage(Switch):
 
  def __init(selfi, PIN):
